@@ -1,8 +1,8 @@
-# COFF Portable Executable Symbol Table Parser
-
 ----
 It is Alexander Hanel' coff-coff with minor modifications introduced for the puposes of [this study](https://auscitte.github.io/posts/Linux-Shim-Bootloader).
 ----
+
+# COFF Portable Executable Symbol Table Parser
 
 coff-coff is a COFF symbol table parser written for Portable Executables (PE). This project was created when I became interested in what attributes could be extracted from PE files compiled with GCC. The set of extracted attributes isn't complete but the findings are still interesting.
 
