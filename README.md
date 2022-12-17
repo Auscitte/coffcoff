@@ -1,5 +1,5 @@
 ----
-It is Alexander Hanel's (@alexander-hanel) coff-coff with minor modifications introduced for the puposes of [this study](https://auscitte.github.io/posts/Linux-Shim-Bootloader).
+It is Alexander Hanel's ([@alexander-hanel](https://github.com/alexander-hanel)) coff-coff with minor modifications introduced for the puposes of [this study](https://auscitte.github.io/posts/Linux-Shim-Bootloader).
 ----
 
 # COFF Portable Executable Symbol Table Parser
