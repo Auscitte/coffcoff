@@ -285,6 +285,8 @@ class COFFS(object):
             temp_dict["type"] = pp.type.name
             temp_dict["aux"] = pp.aux
             temp_dict["sclass"] = pp.storage.name
+            temp_dict["value"] = p_data.value
+            temp_dict["section_number"] = p_data.section_number
             self.entries.append(temp_dict)
             if pp.aux:
                 aux_state = True
